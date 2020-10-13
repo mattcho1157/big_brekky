@@ -2,7 +2,7 @@
 
 @ Copyright 2020 Matthew Mingyeom Cho (more details in LICENSE file)
 
-Browse the files above to view my code for this website.
+Browse the "bigbrekky" folder above to view my code for this website.
 
 ## CONTEXT
 Big Brekky is a social service program at my school - St Joseph’s College, Gregory Terrace - where teams of students and organisers cook burger breakfasts for homeless people every weekday, while sharing genuine conversations. The school’s Ministry team requested me to program a web-enabled data-driven digital solution to replace their existing pen and paper management system. The Big Brekky online management system accommodates three key user types: students, organisers and the admin. The features and functions presented to each user type varies to meet their specific needs for participating and managing the Big Brekky program. 
